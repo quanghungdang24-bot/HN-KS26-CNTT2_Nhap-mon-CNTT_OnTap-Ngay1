@@ -34,7 +34,7 @@ cd ..
 ### Kết quả B1 (pwd)
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+/Users/hung/Documents/starter-kit/trung-tam-tieng-anh
 
 ```
 
