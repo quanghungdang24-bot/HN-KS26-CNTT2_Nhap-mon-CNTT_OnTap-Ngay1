@@ -40,6 +40,7 @@ cd ..
 ### Kết quả liệt kê toàn bộ dự án – B8 (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
 ```text
+.                       .DS_Store               archive                 data                    logs
 ..                      .env                    bai_lam_ngay1.md        docs                    media
 
 ./archive:
