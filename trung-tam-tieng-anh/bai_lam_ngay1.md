@@ -41,7 +41,23 @@ cd ..
 ### Kết quả liệt kê toàn bộ dự án – B8 (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+.                       .DS_Store               archive                 data                    logs
+..                      .env                    bai_lam_ngay1.md        docs                    media
+
+./archive:
+.                       ..                      anh_lop_hoc.jpg         logo_trung_tam.png
+
+./data:
+.                       ..                      hoc_vien_khoa_3.xlsx
+
+./docs:
+.               ..              .DS_Store       lich_hoc.txt
+
+./logs:
+.               ..              access.log
+
+./media:
+.                       ..                      .DS_Store               anh_lop_hoc.jpg         logo_trung_tam.png
 
 ```
 
