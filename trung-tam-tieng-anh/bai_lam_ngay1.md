@@ -1,9 +1,9 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
-- **Họ tên:**
-- **Lớp:**
+- **Họ tên:** Đặng Quang Hưng
+- **Lớp:** CNTT2
 - **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Hệ điều hành (Windows/macOS):** macOS
 
 ## Phần A. Tổ chức thư mục bằng GUI
 
